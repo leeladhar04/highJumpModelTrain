@@ -11,10 +11,6 @@ See the **training.ipynb** for the code
 - [Data Description](#data-description)
 - [Models and Metrics](#models-and-metrics)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 High jump is a technical and competitive sport where success depends on various biomechanical factors. By analyzing video data, we aim to:
